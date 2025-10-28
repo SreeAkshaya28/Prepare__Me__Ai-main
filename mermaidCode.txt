@@ -1,0 +1,15 @@
+
+
+graph TD
+A[Transmission Technology] --> B(Broadcast Links)
+A --> C(Point-to-Point Links)
+C --> D(Unicasting)
+B --> E(Broadcasting)
+B --> F(Multicasting)
+B --> G(Wireless Networks)
+G --> H(WiFi)
+G --> I(Cellular Networks)
+G --> J(Satellite Networks)
+C --> K(Ethernet)
+K --> L(Switched Ethernet)
+
